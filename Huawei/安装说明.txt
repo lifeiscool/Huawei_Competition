@@ -1,0 +1,23 @@
+一、运行环境：
+	Windows7及以上，64位
+	Python3.*
+
+二、依赖库：
+	tensorflow
+	keras
+	csv
+	numpy
+	matlibplot
+	scipy
+	gensim
+	jieba
+	pandas
+	sklearn
+	...
+
+	以上依赖项均可以pip install ***方式安装
+
+三、运行所需文件：
+	demo运行：../competition/lstm.py
+	完整代码运行：请参见开发文档
+	
